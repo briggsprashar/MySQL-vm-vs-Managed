@@ -1,0 +1,5 @@
+pandas
+sqlalchemy 
+pymysql 
+mysqlclient # alt
+python-dotenv
