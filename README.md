@@ -1,2 +1,2 @@
-# HHA504_mysql_vm_vs_managed
+# MySQL VM vs Managed
 MySQL on VM vs Managed Service (SQLAlchemy + Pandas)
